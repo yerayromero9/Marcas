@@ -1,0 +1,12 @@
+.Ej12
+{
+    border: 1px solid;
+    background-color: rgb(190, 15, 15);
+    width: 15%;
+    height: 30%;
+    position: absolute;
+    bottom: 50%;
+    right: 50%;
+    text-align: center;
+    transform: scale(1, 0.5) skew(0, 15deg);
+}

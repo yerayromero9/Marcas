@@ -1,0 +1,7 @@
+.recuadro2
+{
+-webkit-column-width:100px;
+-moz-column-width: 100px;
+column-width: 100px;
+background-color:rgb(190, 15, 15);
+}

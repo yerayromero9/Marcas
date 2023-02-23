@@ -1,0 +1,12 @@
+.rotado9
+{
+    border: 4px solid;
+    padding: 10px;
+    width: 5%;
+    height: 5%;
+    position: absolute; 
+    bottom: 50%;
+    right: 50%;
+    rotate: 300deg;
+    background-color: rgb(190, 15, 15);
+}

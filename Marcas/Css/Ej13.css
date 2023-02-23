@@ -1,0 +1,11 @@
+.r13
+{
+    transform: rotate(50);
+    border: 1px solid;
+    background-color: rgb(190, 15, 15);
+    width: 15%;
+    height: 30%;
+    bottom: 50%;
+    right: 50%;
+    text-align: center;
+}

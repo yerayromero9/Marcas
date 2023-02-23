@@ -1,0 +1,26 @@
+.MovDerecha
+{
+    -ms-transform: translate(500px, 0px);
+    -webkit-transform: translate(500px, 0px);
+    -moz-transform: translate(500px, 0px);
+    -o-transform: translate(500px, 0px);
+    transform: translate(500px, 0px);
+    border-radius: 19px;
+    padding: 9px;
+    background-color: rgb(190, 15, 15);
+    position: absolute;
+    bottom: 20%;
+}
+.MovAbajo
+{
+    -ms-transform: translate(0px,400px);
+    -webkit-transform: translate(0px,400px);
+    -moz-transform: translate(0px,400px);
+    -o-transform: translate(0px,400px);
+    transform: translate(0px, 400px);
+    border-radius: 19px;
+    padding: 9px;
+    background-color: rgb(190, 15, 15);
+    position: absolute;
+    top: 0;
+}

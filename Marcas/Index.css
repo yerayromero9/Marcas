@@ -1,0 +1,18 @@
+a:visited
+{
+    color: rgb(247, 57, 57);
+}
+a
+{
+    display: block;
+    font-family: fantasy;
+    font-style: bold;
+    color: rgb(2, 46, 87);
+    font-size: larger;
+}
+a:hover
+{
+    font-family: fantasy;
+    font-style: bold;
+    color: red;
+}
